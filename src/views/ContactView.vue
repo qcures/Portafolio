@@ -14,7 +14,7 @@ const handleSubmit = () => {
   <section>
     <div class="contact-section">
       <div class="contact-form">
-        <label for="name" class="form-label">NAaME</label>
+        <label for="name" class="form-label">NAME</label>
         <input v-model="name" type="text" id="name" class="form-input" />
 
         <label for="email" class="form-label">EMAIL</label>
